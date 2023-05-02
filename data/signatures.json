@@ -1,0 +1,434 @@
+{
+    "0": {
+        "author_id": 8452293,
+        "paper_id": 0,
+        "signature_id": "0",
+        "author_info": {
+            "given_block": "c raffel",
+            "block": "c raffel",
+            "position": 0,
+            "first": "Colin",
+            "middle": null,
+            "last": "raffel",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "1": {
+        "author_id": 7921500,
+        "paper_id": 0,
+        "signature_id": "1",
+        "author_info": {
+            "given_block": "n shazeer",
+            "block": "n shazeer",
+            "position": 1,
+            "first": "Noam",
+            "middle": null,
+            "last": "shazeer",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "2": {
+        "author_id": 1992890,
+        "paper_id": 0,
+        "signature_id": "2",
+        "author_info": {
+            "given_block": "a roberts",
+            "block": "a roberts",
+            "position": 2,
+            "first": "Adam",
+            "middle": null,
+            "last": "roberts",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "3": {
+        "author_id": 8130398,
+        "paper_id": 0,
+        "signature_id": "3",
+        "author_info": {
+            "given_block": "k lee",
+            "block": "k lee",
+            "position": 3,
+            "first": "Katherine",
+            "middle": null,
+            "last": "lee",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "4": {
+        "author_id": 5831842,
+        "paper_id": 0,
+        "signature_id": "4",
+        "author_info": {
+            "given_block": "s narang",
+            "block": "s narang",
+            "position": 4,
+            "first": "Sharan",
+            "middle": null,
+            "last": "narang",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "5": {
+        "author_id": 1221170,
+        "paper_id": 0,
+        "signature_id": "5",
+        "author_info": {
+            "given_block": "m matena",
+            "block": "m matena",
+            "position": 5,
+            "first": "Michael",
+            "middle": null,
+            "last": "matena",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "6": {
+        "author_id": 6830094,
+        "paper_id": 0,
+        "signature_id": "6",
+        "author_info": {
+            "given_block": "y zhou",
+            "block": "y zhou",
+            "position": 6,
+            "first": "Yanqi",
+            "middle": null,
+            "last": "zhou",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "7": {
+        "author_id": 3882378,
+        "paper_id": 0,
+        "signature_id": "7",
+        "author_info": {
+            "given_block": "w li",
+            "block": "w li",
+            "position": 7,
+            "first": "Wei",
+            "middle": null,
+            "last": "li",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "8": {
+        "author_id": 3782227,
+        "paper_id": 1,
+        "signature_id": "8",
+        "author_info": {
+            "given_block": "z zhou",
+            "block": "z zhou",
+            "position": 0,
+            "first": "Zhongxiang",
+            "middle": null,
+            "last": "zhou",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "9": {
+        "author_id": 6459404,
+        "paper_id": 1,
+        "signature_id": "9",
+        "author_info": {
+            "given_block": "m zhou",
+            "block": "m zhou",
+            "position": 1,
+            "first": "Michelle",
+            "middle": "X.",
+            "last": "zhou",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "10": {
+        "author_id": 2498295,
+        "paper_id": 1,
+        "signature_id": "10",
+        "author_info": {
+            "given_block": "y chen",
+            "block": "y chen",
+            "position": 2,
+            "first": "Yan",
+            "middle": null,
+            "last": "chen",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "11": {
+        "author_id": 4069309,
+        "paper_id": 1,
+        "signature_id": "11",
+        "author_info": {
+            "given_block": "y xu",
+            "block": "y xu",
+            "position": 3,
+            "first": "Yang",
+            "middle": null,
+            "last": "xu",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "12": {
+        "author_id": 3849418,
+        "paper_id": 1,
+        "signature_id": "12",
+        "author_info": {
+            "given_block": "a roberts",
+            "block": "a roberts",
+            "position": 4,
+            "first": "Adam",
+            "middle": null,
+            "last": "roberts",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "13": {
+        "author_id": 8259894,
+        "paper_id": 1,
+        "signature_id": "13",
+        "author_info": {
+            "given_block": "t huang",
+            "block": "t huang",
+            "position": 5,
+            "first": "Ting-Hao",
+            "middle": "Kenneth",
+            "last": "huang",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "14": {
+        "author_id": 8952567,
+        "paper_id": 2,
+        "signature_id": "14",
+        "author_info": {
+            "given_block": "s goyal",
+            "block": "s goyal",
+            "position": 0,
+            "first": "Siddharth",
+            "middle": null,
+            "last": "goyal",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "15": {
+        "author_id": 4662621,
+        "paper_id": 2,
+        "signature_id": "15",
+        "author_info": {
+            "given_block": "n kumar",
+            "block": "n kumar",
+            "position": 1,
+            "first": "Nitish",
+            "middle": null,
+            "last": "kumar",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "16": {
+        "author_id": 7483205,
+        "paper_id": 2,
+        "signature_id": "16",
+        "author_info": {
+            "given_block": "w li",
+            "block": "w li",
+            "position": 2,
+            "first": "Wei",
+            "middle": null,
+            "last": "li",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "17": {
+        "author_id": 3496323,
+        "paper_id": 3,
+        "signature_id": "17",
+        "author_info": {
+            "given_block": "j hartman",
+            "block": "j hartman",
+            "position": 0,
+            "first": "Jenna",
+            "middle": null,
+            "last": "hartman",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "18": {
+        "author_id": 1659573,
+        "paper_id": 3,
+        "signature_id": "18",
+        "author_info": {
+            "given_block": "k lee",
+            "block": "k lee",
+            "position": 1,
+            "first": "Katherine",
+            "middle": null,
+            "last": "lee",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "19": {
+        "author_id": 8300367,
+        "paper_id": 3,
+        "signature_id": "19",
+        "author_info": {
+            "given_block": "a green",
+            "block": "a green",
+            "position": 2,
+            "first": "Amanda",
+            "middle": null,
+            "last": "green",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "20": {
+        "author_id": 9426295,
+        "paper_id": 4,
+        "signature_id": "20",
+        "author_info": {
+            "given_block": "n lee",
+            "block": "n lee",
+            "position": 0,
+            "first": "Nathaniel",
+            "middle": null,
+            "last": "lee",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "21": {
+        "author_id": 4297540,
+        "paper_id": 4,
+        "signature_id": "21",
+        "author_info": {
+            "given_block": "a roberts",
+            "block": "a roberts",
+            "position": 1,
+            "first": "Adam",
+            "middle": null,
+            "last": "roberts",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "22": {
+        "author_id": 3868534,
+        "paper_id": 4,
+        "signature_id": "22",
+        "author_info": {
+            "given_block": "d brown",
+            "block": "d brown",
+            "position": 2,
+            "first": "David",
+            "middle": null,
+            "last": "brown",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "23": {
+        "author_id": 4765709,
+        "paper_id": 4,
+        "signature_id": "23",
+        "author_info": {
+            "given_block": "j chen",
+            "block": "j chen",
+            "position": 3,
+            "first": "Jessica",
+            "middle": null,
+            "last": "chen",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "24": {
+        "author_id": 5759718,
+        "paper_id": 5,
+        "signature_id": "24",
+        "author_info": {
+            "given_block": "c reynolds",
+            "block": "c reynolds",
+            "position": 0,
+            "first": "Chelsea",
+            "middle": null,
+            "last": "reynolds",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "25": {
+        "author_id": 3157320,
+        "paper_id": 5,
+        "signature_id": "25",
+        "author_info": {
+            "given_block": "s lee",
+            "block": "s lee",
+            "position": 1,
+            "first": "Samuel",
+            "middle": null,
+            "last": "lee",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    },
+    "26": {
+        "author_id": 9112447,
+        "paper_id": 5,
+        "signature_id": "26",
+        "author_info": {
+            "given_block": "l martinez",
+            "block": "l martinez",
+            "position": 2,
+            "first": "Luisa",
+            "middle": null,
+            "last": "martinez",
+            "suffix": null,
+            "affiliations": [],
+            "email": null
+        }
+    }
+}
